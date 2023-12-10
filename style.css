@@ -15,9 +15,10 @@ img {
 
 h1 {
     margin-top: -50px; /* Adjust as needed */
-    background-color: blue; /* Ensures text is readable on the banner */
+    background-color: white; /* Ensures text is readable on the banner */
     padding: 10px;
     display: inline-block;
+    color: blue;
 }
 
 nav {
