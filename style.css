@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: Times, sans-serif;
 }
 
 header {
@@ -15,7 +15,7 @@ img {
 
 h1 {
     margin-top: -50px; /* Adjust as needed */
-    background-color: white; /* Ensures text is readable on the banner */
+    background-color: blue; /* Ensures text is readable on the banner */
     padding: 10px;
     display: inline-block;
 }
